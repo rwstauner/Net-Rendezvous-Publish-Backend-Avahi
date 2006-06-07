@@ -1,0 +1,8 @@
+Build.PL
+Changes
+lib/Net/Rendezvous/Publish/Backend/Avahi.pm
+Makefile.PL
+MANIFEST			This list of files
+META.yml
+README
+SIGNATURE    Added here by Module::Build

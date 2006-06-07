@@ -1,0 +1,21 @@
+NAME
+    Net::Rendezvous::Publish::Backend::Avahi - interface to the Avahi
+    library
+
+DESCRIPTION
+    This module publishes services using the Avahi library
+
+AUTHOR
+    Jack Bates <ms419@freezone.co.uk>
+
+COPYRIGHT
+    Copyright 2006, Jack Bates. All rights reserved
+
+    This program is Free Software. You can redistribute it and/or modify it
+    under the same terms as Perl itself
+
+SEE ALSO
+    Net::Rendezvous::Publish - the module this module supports
+
+    Avahi
+

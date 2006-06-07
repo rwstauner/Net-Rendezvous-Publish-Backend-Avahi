@@ -1,0 +1,31 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.54.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 300c4d62c1732ad760c1c4d4d76dd8289cc99c0c Build.PL
+SHA1 2633b3187125d9840f9355d06d5521a3c0ad6442 Changes
+SHA1 e2ec7963beb7308c35b4a332c709b95d0044b0f3 MANIFEST
+SHA1 fcdf448bf4e52b660ca7ab49d52c2393e8aa4384 META.yml
+SHA1 00e0321da83b5705ddea92ac8ce8ffcf77ff8416 Makefile.PL
+SHA1 4a9e216b5991a1a037759081186b2119ef8bb9ac README
+SHA1 a2d8bd55cc5848a5ffbd9580ee405b0bc8409e76 lib/Net/Rendezvous/Publish/Backend/Avahi.pm
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.3 (GNU/Linux)
+
+iGUEARECACUFAkSHABQeGGhrcDovL2NnaS5zZnUuY2E6ODAvfmpkYmF0ZXMvAAoJ
+EDQq9j8F5ZSE+xYAoOI58v3+HDcMEJSF3+iBcT8cC/T8AKC2IzF9YNZpbPtYX7ZU
+j+wmlhAuLA==
+=/Ago
+-----END PGP SIGNATURE-----
