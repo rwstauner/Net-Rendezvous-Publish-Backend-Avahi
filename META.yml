@@ -1,9 +1,11 @@
 ---
 name: Net-Rendezvous-Publish-Backend-Avahi
-version: 0.01
+version: 0.02
 author:
   - 'Jack Bates <ms419@freezone.co.uk>'
-abstract: interface to the Avahi library
+abstract: |-
+  publish zeroconf data with the Avahi
+  library
 license: perl
 requires:
   Net::DBus: 0.33.2
@@ -12,5 +14,5 @@ requires:
 provides:
   Net::Rendezvous::Publish::Backend::Avahi:
     file: lib/Net/Rendezvous/Publish/Backend/Avahi.pm
-    version: 0.01
+    version: 0.02
 generated_by: Module::Build version 0.26
