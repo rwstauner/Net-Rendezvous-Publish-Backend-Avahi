@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.54.
+signed via the Module::Signature module, version 0.55.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -15,17 +15,17 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 300c4d62c1732ad760c1c4d4d76dd8289cc99c0c Build.PL
-SHA1 b7e78449e0adbf9e863063190429623d995b1dd8 Changes
+SHA1 38522030fc483c0851bbdf0799d23ece83635af9 Changes
 SHA1 e2ec7963beb7308c35b4a332c709b95d0044b0f3 MANIFEST
-SHA1 ba78b06ea46bc01ffd87a6a6effcb2bae19e2e7b META.yml
+SHA1 35704352031b097aead62dc5e5a5f0772af0bb06 META.yml
 SHA1 00e0321da83b5705ddea92ac8ce8ffcf77ff8416 Makefile.PL
-SHA1 04ea20c5eefe7cec5efc74623a804da7309a44f6 README
-SHA1 3fa50d99fb4268276e6c59c29712155e2a615ce4 lib/Net/Rendezvous/Publish/Backend/Avahi.pm
+SHA1 5ea5ef3539ab7879a2b3fadccca67e425c9a93a6 README
+SHA1 6c0b40fa4791620fb4ad2534f4298be8522c7334 lib/Net/Rendezvous/Publish/Backend/Avahi.pm
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.3 (GNU/Linux)
+Version: GnuPG v1.4.6 (GNU/Linux)
 
-iGUEARECACUFAkSHJd8eGGhrcDovL2NnaS5zZnUuY2E6ODAvfmpkYmF0ZXMvAAoJ
-EDQq9j8F5ZSEGGoAn2Xwzqz8MsZss77VSFJkCwMSpmrmAKCk5PFimrM2I6gcQmlU
-yel0eROxIw==
-=r+Ee
+iGUEARECACUFAkY+tW0eGGhrcDovL2NnaS5zZnUuY2E6ODAvfmpkYmF0ZXMvAAoJ
+EDQq9j8F5ZSEbQ8An2ABpg8Ca3+bU1WHsmAhFxT9IUQxAJ94fm3D+v3FQZ+Z4oFU
+6R9G3cxBJQ==
+=ls1y
 -----END PGP SIGNATURE-----
